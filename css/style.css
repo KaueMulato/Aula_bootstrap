@@ -1,4 +1,5 @@
 .navbar {background-color: #E00000; height: 70px;}
 .mario {background-color: #225E8C; color: white;}
 .margin {padding-top: 10px;padding-bottom: 1px;}
-.img1 {padding-top: 10px;}
+.img1 {padding-top: 50px; width: 200px; height: 200px;justify-content: center; }
+.btn {background-color: white; color: blue;border-color: black;}
